@@ -1,16 +1,34 @@
-# twitter_app
+# 🐦 Twitter (X) Clone – UI Only
 
-A new Flutter project.
+A Flutter-based **Twitter (X) clone UI** project.  
+This app focuses purely on **recreating the user interface** of Twitter using Flutter, without any backend, authentication, or real-time data.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Purpose of the Project
 
-A few resources to get you started if this is your first Flutter project:
+- Practice complex UI layouts
+- Understand feed-based app design
+- Improve Flutter widget composition
+- Showcase UI cloning skills for portfolio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features (UI Only)
+
+- 📰 Home feed UI
+- 🧑 Profile screen layout
+- 🔍 Explore/Search UI
+- ❤️ Like, comment, retweet buttons (UI only)
+- 🌙 Light / Dark theme UI (if applicable)
+
+> ⚠️ Note: This is a **UI demonstration project** only.  
+> No real user data, login, or API integration is included.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Material / Cupertino widgets
